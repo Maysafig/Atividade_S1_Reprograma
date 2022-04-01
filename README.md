@@ -31,7 +31,7 @@ Uma série de funções extras podem ser aplicadas com domínio sobre estas e ou
 
 Ao passo que fica claro que todas as páginas utilizam Html em seu esqueleto, fica mais fácil entender o que é Html. Igualmente, surgem algumas dúvidas.
 
-Por exemplo, como funciona o Html? Se você se der ao trabalho de baixar o arquivo index.html de qualquer site e abrir fora do navegador, vai se deparar com linhas de texto e nenhuma imagem. Provavelmente não saberia dizer como seria o aspecto do site no navegador, correto?
+Por exemplo, como funciona o HTML? Se você se der ao trabalho de baixar o arquivo index.html de qualquer site e abrir fora do navegador, vai se deparar com linhas de texto e nenhuma imagem. Provavelmente não saberia dizer como seria o aspecto do site no navegador, correto?
 
 Mas quando o mesmo arquivo é aberto em um navegador os elementos são dispostos forma compreensível. Esses arquivos (index.html) ficam armazenados em alguma  hospedagem de sites e o que o navegador faz é acessar o arquivo e ler o hipertexto em Html (e outras linguagens) e converter no formato de uma página.
 
