@@ -1,11 +1,10 @@
-# Atividade_S1_Reprograma :sparkles:
-
+# Atividade_S1_Reprograma
 Atividade desenvolvida na Semana 1 da Reprograma - Turma On16 - Backend
 
 # HTML x CSS
 ![HTML x CSS: afinal, quais são as diferenças?](https://www.isbrasil.info/blog/_images/blog/destaques/2018/05/28/html-x-css-afinal-quais-sao-as-diferencas_1b35feb55a5e269746bc6bc148337033.webp)
 
-## O que é Html? 📚
+## O que é Html?
 
 A definição de Html é Hiper Text Markup Language ou em tradução Linguagem de Marcação de Hipertexto. Podemos dizer então, que a linguagem de Html é utilizada na escrita de hipertextos e estes hipertextos são o esqueleto de todos os sites da internet.
 
@@ -27,7 +26,7 @@ Uma série de funções extras podem ser aplicadas com domínio sobre estas e ou
 
 ![arte sobre o que é html](https://www.isbrasil.info/blog/ckfinder/userfiles/images/html%20art.webp)
 
-## Como funciona o Html? 📕
+## Como funciona o Html?
 
 Ao passo que fica claro que todas as páginas utilizam Html em seu esqueleto, fica mais fácil entender o que é Html. Igualmente, surgem algumas dúvidas.
 
@@ -41,7 +40,7 @@ Logo que compreendemos que os sites na verdade são arquivos de texto escritos e
 
 Você pode utilizar desde o bloco de notas até alguns softwares próprios que deixam o trabalho mais intuitivo como o Atom, Notepad++ ou Sublime Text. 
 
-### HTML e HTTP, qual a relação ? 
+### HTML e HTTP, qual a relação
 
 Mas então, se as páginas são criadas em HTML, o que enfim significa o HTTP ou HTTPS que vemos na barra de navegação. HTTP é a abreviatura para Hyper Text Transfer Protocol e HTTPS possui o mesmo significado, acrescentado Secure ao fim como indicativos de que o site é confiável por utilizar um certificado SSL.
 
@@ -57,7 +56,7 @@ Assim sendo, o HTTP, TCP e IP, são os protocolos principais utilizados e todos 
 
 O importante aqui é compreender que o papel dos protocolos é estabelecer uma comunicação efetiva que permita ao navegador receber as informações do servidor e exibi-las ao usuário que navega na internet.
 
-##  HTML é uma linguagem de programação? Não! 📗
+##  HTML é uma linguagem de programação? Não!
 
 Antes de seguirmos explicando mais sobre HTML, vamos esclarecer um pouco sobre uma confusão comum: Muitas pessoas acham que  html é linguagem de programação, mas na verdade html não é linguagem de programação e sim de marcação de texto, como o nome diz.
 
@@ -71,7 +70,7 @@ Antes de mais nada, por que este esclarecimento é importante? Bem, primeirament
 
 A grosso modo, podemos sintetizar isso em outra analogia: Uma linguagem de marcação de texto dirá ao computador que o número 1 é o número 1 e o número 2 é o número 2. Uma linguagem de programação permite ao computador calcular que 1+1=2.
 
-## Diferenças entre Html e Html5 📘
+## Diferenças entre Html e Html5
 
 Uma vez que pensamos em Html como linguagem, ele está sujeito a evoluções assim como um idioma falado.
 
@@ -83,7 +82,7 @@ Desde então, cada vez mais utilizada, ela sofre atualizações e alterações n
 
 Naturalmente, o caminho para o uso do Html5, passa pelo aprendizado do Html tradicional. Uma vez que esta linguagem de marcação tenha sido aprendida, você compreenderá melhor as vantagens do Html5, que também será ensinado nas próximas publicações.
 
-## Semântica em HTML 📙
+## Semântica em HTML
 
 Assim como em qualquer idioma a semântica é essencial para dar sentido as coisas, em linguagem HTML não seria diferente. Mas antes de tudo, você sabe o do que se trata a semântica?
 
@@ -105,7 +104,7 @@ Outra função importante é auxiliar os leitores de tela utilizados por deficie
 
 Ainda podemos citar também o fato de que um código semanticamente correto é muito mais fácil de ser depurado futuramente. Por todos esses motivos, enquanto você desenvolve o código HTML de uma página é importante saber exatamente quais tags se enquadram melhor ás suas necessidades.
 
-## Tags de Html - Conceitos iniciais 📕
+## Tags de Html - Conceitos iniciais
 
 A primeira coisa a que precisamos entender são os conceitos iniciais de Html. Estes são as tags, elementos e atributos.
 
@@ -150,7 +149,7 @@ Além da tag parágrafo, outros exemplos de tags Html são:
 
 Estes são alguns exemplos de tags comuns e já auxiliam bastante na leitura de um código Html, entretanto ainda estão longe de serem capaz de criar uma página digna, por mais simples que seja. Por isso, vamos ao próximo conceito inicial de Html, os elementos.
 
-## O que são elementos Html? 📗
+## O que são elementos Html?
 
 Se as tags indicam como um texto deve ser interpretado pelo navegador, ao texto que está entre as tags em questão damos o nome de elemento. Assim, no código acima nós temos basicamente: tags e elementos.
 
@@ -158,7 +157,7 @@ A função da tag é indicar qual o tipo de elemento será inserido. Por exemplo
 
 O mesmo acontece com as tags title e todas as outras.
 
-## O que são atributos Html? 📘
+## O que são atributos Html?
 
 Para finalizar os conceitos iniciais podemos falar dos atributos Html. Estes são inseridos dentro das próprias tags (entre os sinais de < e >), com auxílio de aspas duplas (“) e tem a função de ampliar as funcionalidades daquela tag.
 
@@ -174,7 +173,7 @@ A inclusão do atributo Id, por hora, não altera nada em nossa página no naveg
 
 ![exemplo de atributos em html](https://www.isbrasil.info/blog/ckfinder/userfiles/images/html%20atributos.webp)
 
-## Estrutura inicial Html 📙
+## Estrutura inicial Html
 
 Agora que aprendemos o que é Html e seus princípios básicos, vamos começar a falar da parte prática, escrever em Html.
 
@@ -182,7 +181,7 @@ Na hora de começar a escrever seu hipertexto em Html, existe uma estrutura bás
 
 ![estrtura inicial de html](https://www.isbrasil.info/blog/ckfinder/userfiles/images/html%20estrutura%20b%C3%A1sica.webp)
 
-### O que é Doctype Html     
+### O que é Doctype Html
 
 Vamos analisar essa estrutura inicial por linhas.
 
@@ -248,7 +247,7 @@ Para finalizara vamos deixar uma lista com as tags, atributos e elementos mais u
 
 Enfim, essa é uma excelente base para você começar a se aprofundar em HTML e web design e criar seus próprios sites!
 
-## Possibilidades com HTML  📚
+## Possibilidades com HTML
 
 Vamos ver abaixo algumas possibilidades que podem ser criadas com uso de HTML no seu site!
 
@@ -264,13 +263,13 @@ Aplicar  [cores HTML](https://www.isbrasil.info/blog/aplicando-cores-em-html-rgb
 
 O  [html para e-mail marketing](https://www.isbrasil.info/blog/tutorial-aprenda-a-montar-e-mail-marketing-com-html.html) permite criar layouts bonitos e agradaveis. Isso pode ser um grande diferencial durante suas campanhas para conseguir converter seus leads!
 
-## O que é CSS 📕
+## O que é CSS
 
 Já o CSS (Cascading Style Sheets) significa Folhas de Estilo em Cascata é uma linguagem de estilo utilizada para definir a apresentação de documentos escritos em uma linguagem de marcação, como HTML ou XML. Seu principal benefício é prover a separação entre o formato e o conteúdo de um documento. O CSS é uma linguagem mais voltada para a estética, utilizada para formatar os conteúdos já estruturados.
 
 Essa linguagem é responsável pela aparência da página, como o posicionamento dos elementos, cores e tudo que torne o site mais visualmente agradável para a navegação. Para ter conhecimentos em CSS o web designer precisa primeiramente conhecer o HTML profundamente, senão ele não entenderia conceitos de como aplicar o estilo com o CSS.
 
-## Diferenças entre HTML e CSS 📗
+## Diferenças entre HTML e CSS
 
 Agora, vamos ver as principais diferenças entre HTML e CSS:
 
@@ -310,7 +309,7 @@ Quando um usuário exibe uma página web, o navegador carrega as informações d
 
 Quando ele imprime uma página da web, você pode fornecer informações de estilos diferentes, fazendo com que a página impressa fique de fácil leitura.
 
-## Como o HTML e o CSS trabalham juntos? 📘
+## Como o HTML e o CSS trabalham juntos?
 
 Em geral, você usa HTML para descrever o conteúdo do documento, não o estilo do documento. Você usa CSS para especificar o estilo do documento e não o seu conteúdo. Quando você usa CSS, normalmente evita usar esses recursos da linguagem de marcação, para deixar informações de estilo em um único lugar. De um forma geral, pode-se dizer que o HTML é praticamente obrigatório em todo site, pois o CSS serve para incrementar sua aplicação com estilos de cores e detalhes na formatação.
 
